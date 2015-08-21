@@ -1,0 +1,28 @@
+div{
+	display: inline-block; 
+}
+
+h1{
+	font-family: Geomancy,  Extra Bold;
+	font-size: 72px;
+}
+
+#header{
+	margin-left: 860px;
+}
+	
+#shop{
+	margin-left:484px;
+	margin-right:15px;	
+	
+
+}	
+
+#webshop{
+	margin-left:15px;
+	margin-right:15px;
+}
+
+#blog{
+	margin-left:15px;
+}
